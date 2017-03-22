@@ -14,13 +14,12 @@ RA   	| Nome                          |E-mail	                     |Telefone
 1600041 |Joelma Renata Alves de Oliveira|renatabels@gmail.com        |(11) 95946-3856
 16000289|Leonardo Lopes Gomes           |leonardo.lopes555@gmail.com |(11) 96438-9584
 1600605 |Lucas dos Santos Batista	    |lucasq04@gmail.com          |(11) 98763-6567
----
+
 
 ## Tabela 2 – Principais clientes
  Nome                          |E-mail	                     |Telefone
 -------------------------------|----------------------------|---------------
 Maria de Lourdes Lopes Gomes   |lourdes.lgomes@gmail.com    |(11) 9 7156 – 1785 / (11) 2585-9060
----
 
 
 
