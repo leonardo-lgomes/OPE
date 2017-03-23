@@ -1,3 +1,12 @@
 # Usuários e Outros Stakeholders
 
- - [09_Usuário e outros stakeholders](https://github.com/rnataoliveira/OPE/blob/master/Arquivos/09%20-%20Usu%C3%A1rios%20e%20outros%20Stakeholders.pdf)
+## Tabela 1 – Lista de Usuários 
+Usuários    | Comentário
+------------|-------------------
+Corretora   |Realizar agendamento de visitas e cadastro de clientes via web.
+
+
+## Tabela 2 – Lista de Outros Stakeholders 
+Outros Stakeholders          | Comentário
+-----------------------------|--------------
+Equipe de desenvolvimento    | Equipe responsável pelo projeto.
