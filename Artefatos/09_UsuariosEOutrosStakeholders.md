@@ -3,10 +3,11 @@
 ## Tabela 1 – Lista de Usuários 
 Usuários    | Comentário
 ------------|-------------------
-Corretora   |Realizar agendamento de visitas e cadastro de clientes via web.
+Corretora   |Responsável pela Lopes Corretora.
 
 
 ## Tabela 2 – Lista de Outros Stakeholders 
 Outros Stakeholders          | Comentário
 -----------------------------|--------------
 Equipe de desenvolvimento    | Equipe responsável pelo projeto.
+Clientes                     |  Afetado pelos serviços da Lopes Corretora.
